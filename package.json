@@ -1,0 +1,26 @@
+{
+  "name": "daisyui-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbulakh/daisyui-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbulakh/daisyui-project/issues"
+  },
+  "homepage": "https://github.com/bbulakh/daisyui-project#readme",
+  "devDependencies": {
+    "daisyui": "^3.1.1",
+    "parcel": "^2.9.2",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
+  }
+}
