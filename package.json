@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/bbulakh/daisyui-project#readme",
   "devDependencies": {
+    "@parcel/packager-raw-url": "^2.9.2",
+    "@parcel/transformer-webmanifest": "^2.9.2",
     "daisyui": "^3.1.1",
     "parcel": "^2.9.2",
     "postcss": "^8.4.24",
